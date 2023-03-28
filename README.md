@@ -1,8 +1,8 @@
-### > Hello World! 👻_
+# > Hello World! 👻_
 
 ![My-Life](https://user-images.githubusercontent.com/82910564/228103091-5153587d-87aa-466a-9a72-ed0921f4fdcf.png)
 ---
-**Hey everyone, my name is Erick 🤍**
+### Hey everyone, my name is Erick 🤍
 
 - 🔭 I’m currently a Junior Developer
 - 🌱 I’m currently studying Software Development
